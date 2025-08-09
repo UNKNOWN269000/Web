@@ -9,7 +9,7 @@ var UserStatus;
 })(UserStatus || (UserStatus = {}));
 var Default;
 (function (Default) {
-    Default["PIN"] = "269000";
+    Default["PIN"] = "256000";
 })(Default || (Default = {}));
 var WeatherType;
 (function (WeatherType) {
